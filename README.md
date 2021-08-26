@@ -1,4 +1,4 @@
-# domain-design-resources
+# scientific-domain-design-resources
 
 I created this as a resource to hold my thoughts, observations and experiences with focusing on capturing domain into a machine rather than think about programming specific ideas or patterns. I believe that premature abstraction and optimizations are the greatest evils in programming and are a waste of time. In contrast to over-engineering with premature abstraction, capturing your domain to represent accurately in code and thinking of experiments and tests that validate your code/programs are never a waste of time.
 
