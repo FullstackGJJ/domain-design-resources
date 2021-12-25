@@ -19,3 +19,5 @@ When you have a problem statement such as "how can I build a sophisticated spam 
 **Problem -> Compututational Theory components -> Architectural Design with Event Modelling -> Scientific Domain Expert Code Implementation**
 
 These series of thinking in my experience leads to all the important questions being asked and results in really good end product.
+
+An example template that I did can be found here https://github.com/FullstackGJJ/employee-specialty-decoder/tree/main/Haskell where you can see how the `Description.md` housed within a directory to encapsulate a domain is done. I plan to do more in the future in other languages for more examples.
