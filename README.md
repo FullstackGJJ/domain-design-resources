@@ -1,6 +1,6 @@
-# scientific-domain-design-resources
+# scientific-expert-design-resources
 
-I created this as a resource to hold my thoughts, observations and experiences with focusing on capturing domain into a machine rather than think about programming specific ideas or patterns. I believe that premature abstraction and optimizations are the greatest evils in programming and are a waste of time. In contrast to over-engineering with premature abstraction, capturing your domain to represent accurately in code and thinking of experiments and tests that validate your code/programs are never a waste of time.
+I created this as a resource to hold my thoughts, observations and experiences with focusing on capturing domain expert into a machine rather than think about programming specific ideas or patterns. I believe that premature abstraction and optimizations are the greatest evils in programming and are a waste of time. In contrast to over-engineering with premature abstraction, capturing your domain or system expert to represent accurately in code and thinking of experiments and tests that validate your code/programs are never a waste of time.
 
 # Functional programming structure
 
@@ -16,6 +16,6 @@ Unit tests would most likely be written for PureCalculations with the mindset of
 
 When you have a problem statement such as "how can I build a sophisticated spam bot that's as good as a human?" You want to be able to predictably break it down into workable tasks that people can work on. These series of transformational breaking down of a problem I find very useful and incremental and it goes as such.
 
-**Problem -> Compututational Theory components -> Architectural Design with Event Modelling -> Scientific Domain Code Implementation**
+**Problem -> Compututational Theory components -> Architectural Design with Event Modelling -> Scientific Domain Expert Code Implementation**
 
 These series of thinking in my experience leads to all the important questions being asked and results in really good end product.
