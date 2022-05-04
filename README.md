@@ -21,3 +21,5 @@ When you have a problem statement such as "how can I build a sophisticated spam 
 These series of thinking in my experience leads to all the important questions being asked and results in really good end product.
 
 An example template that I did can be found here https://github.com/FullstackGJJ/employee-specialty-decoder/tree/main/Haskell where you can see how the `Description.md` housed within a directory to encapsulate a domain is done. I plan to do more in the future in other languages for more examples.
+
+When working with a problem, you can start out by imagining an ideal finalized automated solution. From there, you want to work backwards and take away responsibility that is delegated to the user instead of the solution. As you strip away responsibilities from the solution, you have a roadmap for how you can start from nothing to a complete solution. During building the solution, you want to model out values and data that are computable and build assuming they exist, then make them exist and extract out the domain or start from domain that is responsible for values/data existing.
