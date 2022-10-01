@@ -2,6 +2,10 @@
 
 I created this as a resource to hold my thoughts, observations and experiences with focusing on capturing domain expert into a machine rather than think about programming specific ideas or patterns. I believe that premature abstraction and optimizations are the greatest evils in programming and are a waste of time. In contrast to over-engineering with premature abstraction, capturing your domain or system expert to represent accurately in code and thinking of experiments and tests that validate your code/programs are never a waste of time.
 
+# Data Oriented Programming
+
+The book "Data Oriented Programming" is an excellent resource for visualizing how data/mental models can relate to each other and it a great place to start when figuring out domains
+
 # Functional programming structure
 
 I've identified that a good way to represent domains is to categorize things within a domain as `DomainModels`, `DomainRules`, `PureCalculations`, `ImpureCalculations`, and `InternalFunctions`.  Using that structure, I've been finding that I can basically represent any world or domain that I've come across in existence so far whether they be real or imaginary.
