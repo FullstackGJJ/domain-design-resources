@@ -16,6 +16,13 @@ I think a good place to start is to imagine that you intend to write a library f
 
 Unit tests would most likely be written for PureCalculations with the mindset of "how would I verify that a domain expert is encapsulated in this code?" Integration or end to end tests would be more useful to verify ImpureActions working and behaving as expected.
 
+**edit: I've updated `Rules` concept into `Concerns` concept so that it can be more flexible and scalable and labelled better. (Think <XYZ-concerns> instead of <XYZ-rules-of-thumb>)
+
+- `Domain Data Models`: What data does an expert need to be able to think about their problem?
+- `Concerns`: What are things an expert is concerned about when they are thinking about their problem?
+- `Calculations`: What does an expert have to make a calculated decision about to be useful to someone asking them a question?
+- `Action`: What kind of interaction dependent task do we need an expert to take part in?
+
 # Problem solving tiers
 
 When you have a problem statement such as "how can I build a sophisticated spam bot that's as good as a human?" You want to be able to predictably break it down into workable tasks that people can work on. These series of transformational breaking down of a problem I find very useful and incremental and it goes as such.
